@@ -14,7 +14,7 @@
 		<Node>
 			<Header>
 				<NodeID>0</NodeID>
-				<Name>brow-ll</Name>
+				<Name>brow_ll</Name>
 				<ss_minX>35</ss_minX>
 				<ss_minY>12</ss_minY>
 				<ss_maxX>54</ss_maxX>
@@ -34,7 +34,7 @@
 		<Node>
 			<Header>
 				<NodeID>1</NodeID>
-				<Name>brow-lc</Name>
+				<Name>brow_lc</Name>
 				<ss_minX>24</ss_minX>
 				<ss_minY>11</ss_minY>
 				<ss_maxX>50</ss_maxX>
@@ -54,7 +54,7 @@
 		<Node>
 			<Header>
 				<NodeID>2</NodeID>
-				<Name>brow-lr</Name>
+				<Name>brow_lr</Name>
 				<ss_minX>26</ss_minX>
 				<ss_minY>12</ss_minY>
 				<ss_maxX>44</ss_maxX>
@@ -74,7 +74,7 @@
 		<Node>
 			<Header>
 				<NodeID>3</NodeID>
-				<Name>brow-rl</Name>
+				<Name>brow_rl</Name>
 				<ss_minX>16</ss_minX>
 				<ss_minY>12</ss_minY>
 				<ss_maxX>36</ss_maxX>
@@ -94,7 +94,7 @@
 		<Node>
 			<Header>
 				<NodeID>4</NodeID>
-				<Name>brow-rc</Name>
+				<Name>brow_rc</Name>
 				<ss_minX>12</ss_minX>
 				<ss_minY>11</ss_minY>
 				<ss_maxX>31</ss_maxX>
@@ -114,7 +114,7 @@
 		<Node>
 			<Header>
 				<NodeID>5</NodeID>
-				<Name>brow-rr</Name>
+				<Name>brow_rr</Name>
 				<ss_minX>7</ss_minX>
 				<ss_minY>12</ss_minY>
 				<ss_maxX>27</ss_maxX>
@@ -134,7 +134,7 @@
 		<Node>
 			<Header>
 				<NodeID>6</NodeID>
-				<Name>canthi-ll</Name>
+				<Name>canthi_ll</Name>
 				<ss_minX>33</ss_minX>
 				<ss_minY>17</ss_minY>
 				<ss_maxX>51</ss_maxX>
@@ -154,7 +154,7 @@
 		<Node>
 			<Header>
 				<NodeID>7</NodeID>
-				<Name>canthi-lr</Name>
+				<Name>canthi_lr</Name>
 				<ss_minX>28</ss_minX>
 				<ss_minY>18</ss_minY>
 				<ss_maxX>45</ss_maxX>
@@ -174,7 +174,7 @@
 		<Node>
 			<Header>
 				<NodeID>8</NodeID>
-				<Name>nose-root</Name>
+				<Name>nose_root</Name>
 				<ss_minX>23</ss_minX>
 				<ss_minY>17</ss_minY>
 				<ss_maxX>38</ss_maxX>
@@ -194,7 +194,7 @@
 		<Node>
 			<Header>
 				<NodeID>9</NodeID>
-				<Name>canthi-rl</Name>
+				<Name>canthi_rl</Name>
 				<ss_minX>18</ss_minX>
 				<ss_minY>18</ss_minY>
 				<ss_maxX>33</ss_maxX>
@@ -214,7 +214,7 @@
 		<Node>
 			<Header>
 				<NodeID>10</NodeID>
-				<Name>canthi-rr</Name>
+				<Name>canthi_rr</Name>
 				<ss_minX>11</ss_minX>
 				<ss_minY>17</ss_minY>
 				<ss_maxX>29</ss_maxX>
@@ -234,7 +234,7 @@
 		<Node>
 			<Header>
 				<NodeID>11</NodeID>
-				<Name>ear-l</Name>
+				<Name>ear_l</Name>
 				<ss_minX>37</ss_minX>
 				<ss_minY>21</ss_minY>
 				<ss_maxX>55</ss_maxX>
@@ -254,7 +254,7 @@
 		<Node>
 			<Header>
 				<NodeID>12</NodeID>
-				<Name>nose-l</Name>
+				<Name>nose_l</Name>
 				<ss_minX>26</ss_minX>
 				<ss_minY>27</ss_minY>
 				<ss_maxX>43</ss_maxX>
@@ -274,7 +274,7 @@
 		<Node>
 			<Header>
 				<NodeID>13</NodeID>
-				<Name>nose-tip</Name>
+				<Name>nose_tip</Name>
 				<ss_minX>20</ss_minX>
 				<ss_minY>24</ss_minY>
 				<ss_maxX>41</ss_maxX>
@@ -294,7 +294,7 @@
 		<Node>
 			<Header>
 				<NodeID>14</NodeID>
-				<Name>nose-r</Name>
+				<Name>nose_r</Name>
 				<ss_minX>19</ss_minX>
 				<ss_minY>26</ss_minY>
 				<ss_maxX>36</ss_maxX>
@@ -314,7 +314,7 @@
 		<Node>
 			<Header>
 				<NodeID>15</NodeID>
-				<Name>ear-r</Name>
+				<Name>ear_r</Name>
 				<ss_minX>4</ss_minX>
 				<ss_minY>20</ss_minY>
 				<ss_maxX>24</ss_maxX>
@@ -334,7 +334,7 @@
 		<Node>
 			<Header>
 				<NodeID>16</NodeID>
-				<Name>mouth-corner-l</Name>
+				<Name>mouth_corner_l</Name>
 				<ss_minX>28</ss_minX>
 				<ss_minY>33</ss_minY>
 				<ss_maxX>46</ss_maxX>
@@ -354,7 +354,7 @@
 		<Node>
 			<Header>
 				<NodeID>17</NodeID>
-				<Name>mouth-upper</Name>
+				<Name>mouth_upper</Name>
 				<ss_minX>22</ss_minX>
 				<ss_minY>32</ss_minY>
 				<ss_maxX>39</ss_maxX>
@@ -374,7 +374,7 @@
 		<Node>
 			<Header>
 				<NodeID>18</NodeID>
-				<Name>mouth-lower</Name>
+				<Name>mouth_lower</Name>
 				<ss_minX>21</ss_minX>
 				<ss_minY>34</ss_minY>
 				<ss_maxX>39</ss_maxX>
@@ -394,7 +394,7 @@
 		<Node>
 			<Header>
 				<NodeID>19</NodeID>
-				<Name>mouth-corner-r</Name>
+				<Name>mouth_corner_r</Name>
 				<ss_minX>17</ss_minX>
 				<ss_minY>32</ss_minY>
 				<ss_maxX>35</ss_maxX>
